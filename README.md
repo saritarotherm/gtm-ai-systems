@@ -15,11 +15,19 @@ Every system has an eval: cases I scored by hand, what the system scored, and wh
 
 What's inside
 
-call-review-agent/	Scores a call transcript against SPICED, pushes hardest on Impact and Decision, and writes coaching notes an AE can use on the next call	--> Building
+| **stall-buster** | Reads a deal's transcripts, emails and notes and gives an evidence-based health check: SPICED summary, Green/Yellow/Red rating, stage and close-date checks, and next moves with copy ready to paste. --> Building| 
 
-pipeline-auditor/	Reads a deal export and flags stale stages, missing next steps, and close dates held together by hope	--> Next
+|**inbound-lead-scout**| Researches an inbound lead before first contact: product sign-up, form fill or aged lead. Routes it by freshness and SLA, checks domain ownership and disqualifiers, then hands back Day 1 call, email and LinkedIn copy plus a 12-day cadence. --> Next |
 
-ramp-roleplay/	Plays a buyer with real objections, then grades the discovery	--> Next
+| **named-account-scout** | Turns a cold target company name into a 20-business-day outbound plan in two waves, aimed at two different functions. Includes ownership checks, a one-sentence account-specific hook and Day 1 copy ready to send. --> Next|
+
+| **pre-call-scout** | A one-page brief for a meeting that's already booked: the prospect's reality, the person, digital body language, verbatim SPICED questions and the next step the call must produce. --> Next|
+
+| **deal-a-day-coach** | Ongoing coaching partner for the sales floor, grounded in the Deal-a-Day playbook. Covers call debriefs, role-play, rep and deal diagnosis, 1:1 prep, scorecard reads and follow-up cadences. --> Next|
+
+| **pricing-calc** | The deal desk. Turns a transcript into the strongest defensible quote: line-by-line rate-card math, a recommended package plus downside and upside alternatives, a ladder of concessions traded for something in return, and approval routing. --> Next|
+
+| **high-intent-sequence** | A 4–5 step email sequence that turns a high-intent form fill into a booked discovery call, in A/B variants with the highest-leverage step flagged. --> Next|
 
 How every project is laid out
 
