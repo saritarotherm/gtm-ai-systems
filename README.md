@@ -5,17 +5,15 @@ AI systems for revenue teams. They review your calls, audit your pipeline, and t
 
 What's in here:
 
-Three working systems for the parts of GTM where people guess the most:
+Three working systems for the parts of GTM where we often go on gut feel instead of facts:
 
 what happened on the call
 what's legit in the pipeline
-whether a new AE is ready for a live buyer
+whether a new AE is ready to be launched on phones
 
-Every system ships with an eval: cases I scored by hand, what the system scored, and where we disagreed. If it can't pass my grading, it doesn't get near a forecast.
+Every system has an eval: cases I scored by hand, what the system scored, and where we disagreed. If it can't pass my grading, it doesn't get near a forecast.
 
 What's inside
-
-System	What it does	Status
 
 call-review-agent/	Scores a call transcript against SPICED, pushes hardest on Impact and Decision, and writes coaching notes an AE can use on the next call	--> Building
 
@@ -24,6 +22,7 @@ pipeline-auditor/	Reads a deal export and flags stale stages, missing next steps
 ramp-roleplay/	Plays a buyer with real objections, then grades the discovery	--> Next
 
 How every project is laid out
+
 project-name/
 
 ├── README.md       problem, design decisions, result, limits
