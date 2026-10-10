@@ -46,7 +46,7 @@ project-name/
 House rules
 
 Evals or it didn't happen. Every result in this repo is a measured one.
-Synthetic data only. No real customers, calls, or companies appear anywhere here. It's all been anonymized.
+Synthetic data only. No real customers, calls, or companies appear anywhere here. 
 
 Built with Claude Code. I design the system, set the standard, and grade the output. I'm not a software engineer and this repo doesn't pretend otherwise. The fact i'm doing this is a miracle, but ya girl learns fast and adapts faster.
 Failures get written down. See what-didnt-work.md.
