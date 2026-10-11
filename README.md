@@ -1,17 +1,20 @@
 # gtm-ai-systems
-your pipeline called. it's not as healthy as it told you. smart prompts for busy leaders. 
+your pipeline called. it's not as healthy as it told you. 
+
+smart systems for busy leaders
 
 AI systems for revenue teams. They review your calls, audit your pipeline, and tell you the truth about your forecast. Yes, I checked their homework.
 
 What's in here:
 
-Three working systems for the parts of GTM where we often go on gut feel instead of facts:
+Systems for the parts of GTM where we often go on gut feel instead of facts:
 
-what happened on the call
+who gets the first call, and what to say on it
 what's legit in the pipeline
-whether a new AE is ready to be launched on phones
+what a deal should be priced at, and what to trade for a discount
+how to coach the AE in front of you
 
-Every system has an eval: cases I scored by hand, what the system scored, and where we disagreed. If it can't pass my grading, it doesn't get near a forecast.
+Nothing here gets marked Shipped without an eval: cases I scored by hand, what the system scored, and where we disagreed. If it can't pass my grading, it doesn't get near a forecast.
 
 What's inside
 
@@ -24,8 +27,6 @@ What's inside
 | **pre-call-scout** | A one-page brief for a meeting that's already booked: the prospect's reality, the person, digital body language, verbatim SPICED questions and the next step the call must produce. --> Next|
 
 | **deal-a-day-coach** | Ongoing coaching partner for the sales floor, grounded in the Deal-a-Day playbook. Covers call debriefs, role-play, rep and deal diagnosis, 1:1 prep, scorecard reads and follow-up cadences. --> Next|
-
-| **pricing-calc** | The deal desk. Turns a transcript into the strongest defensible quote: line-by-line rate-card math, a recommended package plus downside and upside alternatives, a ladder of concessions traded for something in return, and approval routing. --> Next|
 
 | **high-intent-sequence** | A 4–5 step email sequence that turns a high-intent form fill into a booked discovery call, in A/B variants with the highest-leverage step flagged. --> Next|
 
